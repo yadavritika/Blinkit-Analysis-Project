@@ -41,3 +41,6 @@ This project helped me understand how to transform raw sales data into an intera
 
 Dashboard Preview
 
+<img width="1281" height="674" alt="Screenshot 2026-10-11 141754" src="https://github.com/user-attachments/assets/bd4df211-de26-40c6-9064-dbc41a942de3" />
+
+
